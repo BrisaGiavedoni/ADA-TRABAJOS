@@ -16,4 +16,4 @@ let numero1 = parseFloat(prompt("Ingrese un número:")); //Solicitar numero al u
 
 let doble = numero1 * 2; //Una vez que el usuario ingrese un numero calcular el doble de ese número
 
-console.log("El doble de " + numero1 + " sería: " + doble); // Mostrar el resultado node
+console.log("El doble de " + numero1 + " sería: " + doble); // Mostrar el resultado 

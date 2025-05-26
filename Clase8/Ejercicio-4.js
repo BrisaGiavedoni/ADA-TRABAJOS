@@ -12,7 +12,7 @@ por 2.
 
 const prompt = require('prompt-sync')(); //prompt-sync para poder usar prompt en Node.js
 
-let numeroentero = parseFloat(prompt("Ingrese un numero entero:")); //Solicitar que ususario ingrese numero entero
+let numeroentero = parseFloat(prompt("Ingrese un numero entero:")); //Solicitar que usuario ingrese numero entero
 
 if (numeroentero % 2 === 0) {
   console.log("El número es par."); 
