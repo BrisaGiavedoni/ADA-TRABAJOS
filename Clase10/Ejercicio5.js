@@ -16,8 +16,8 @@ Pista 2: Para asignar el valor a una variable utilizamos el operador "=" seguido
 
 const prompt = require("prompt-sync")();
 
-let primerNumero = parseFloat(prompt("Ingrese el primer número: "));
-let segundoNumero = parseFloat(prompt("Ingrese el segundo número: ")); 
+let primerNumero = 15;
+let segundoNumero = 5;
 
 let resultadoSuma = primerNumero + segundoNumero;
 let resultadoResta = primerNumero - segundoNumero;
